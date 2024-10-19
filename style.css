@@ -45,3 +45,9 @@ footer {
     background:#35424a;
     color: #ffffff;
 }
+@media only screen and (max-width: 768px) {
+    .call-link {
+        font-size: 14px;
+        padding: 8px 18px;
+    }
+}
