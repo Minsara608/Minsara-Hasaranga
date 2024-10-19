@@ -1,0 +1,47 @@
+img {
+    width: 100%;/* Make  the image take up the full width */
+    height: auto;/* Make the height auto so the image doesn't get distorted */
+    border: 1px solid #ddd;/*Add a light gray border  */
+    padding: 5px;/*Add some padding around the image */ 
+    margin: 10px 0;/*Add some margin above and below the image */ 
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+
+}
+header {
+    background: #35424a;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+main {
+    padding: 20px;
+}
+section {
+    margin: 20px 0;
+    padding: 20px;
+    background: #ffffff;
+    border: 1px solid #dddddd;
+}
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background:#35424a;
+    color: #ffffff;
+}
